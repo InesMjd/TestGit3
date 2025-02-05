@@ -1,3 +1,9 @@
 <h1>Hello Git</h1>
 
+<<<<<<< HEAD
 <p>Nouvelle fonctionnalité ajoutée!</p>
+
+<p>paragraph à partir d'une autre branche</p>
+=======
+<p>paragraphe dans branche new2</p>
+>>>>>>> new2
